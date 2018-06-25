@@ -4,7 +4,7 @@
  * @license     http://opensource.org/licenses/MIT  MIT License
  * @link        https://www.ioa.tw/
  */
- 
-$(function () {
 
+$(function () {
+  $(".bg-img, .bottom-img").imgLiquid();
 });
