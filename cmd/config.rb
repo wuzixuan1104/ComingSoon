@@ -1,11 +1,7 @@
 require 'compass/import-once/activate'
 
 # 網域(domain)後面的目錄
-<<<<<<< HEAD
 http_path = "/comingsoon"
-=======
-http_path = "/"
->>>>>>> 93431745ca737ca3fb4fcb93c20f74f5fb207c9f
 
 
 # 字體目錄與網址下的字體目錄

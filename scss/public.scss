@@ -425,7 +425,7 @@ html {
       font-size: 16px;
       color: white;
     }
-    a {
+    > a {
       display: inline-block;
       position: relative;
       text-decoration: none;
@@ -458,11 +458,11 @@ html {
         width: 50%;
         @include clearfix();
 
-        > div {
+        .href {
           display: block;
           width: 100%;
           height: 50px;
-
+          text-decoration: none;
           > div {
             display: block;
             float: right;
@@ -472,7 +472,7 @@ html {
               width: 100%;
             }
           }
-          + div {
+          + a {
             margin-top: 20px;
           }
           &:hover {
@@ -540,12 +540,12 @@ html {
           display: inline-block;
           width: 135px;
           margin-left: calc( (100% - 135px) / 2 );
-          > div {
+          .href {
             > div {
               width: 135px;
               height: 40px;
             }
-            + div {
+            + a {
               margin-top: 5px;
             }
           }

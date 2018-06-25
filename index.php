@@ -31,12 +31,12 @@
           <span>讓你的創意決定品牌的廣告，讓你的廣告成為大家的生活。</span>
         </div>
         <div class="download">
-          <div class="apple">
+          <a href="https://itunes.apple.com/us/app/adpost/id1388259458?l=zh&ls=1&mt=8" class="apple">
             <img src="/img/index-v2/apple.png">
-          </div>
-          <div class="google">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.motherad.adpost" class="google">
             <img src="/img/index-v2/google.png">
-          </div>
+          </a>
         </div>
       </div>
     </div>
@@ -97,15 +97,15 @@
       <div class="left">
         <h3>接廣告更簡單</h3>
         <span>透過平台串起你與品牌的連結。</span>
-        <a href="#">現在就成為拍Sir</a>
+        <a>現在就成為拍Sir</a>
         <div class="link">
           <div class="btn">
-            <div class="apple">
+            <a href="https://itunes.apple.com/us/app/adpost/id1388259458?l=zh&ls=1&mt=8" class="href apple">
               <div><img src="/img/index-v2/apple2.png"></div>
-            </div>
-            <div class="google">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=com.motherad.adpost" class="href google">
               <div><img src="/img/index-v2/google2.png"></div>
-            </div>
+            </a>
           </div>
           <div class="qrcode">
             <div data-title="DOWNLOAD APP"><img src="/img/index-v2/qrcode.png"></div>
